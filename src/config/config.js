@@ -1,5 +1,5 @@
 module.exports = {
-  layout: 'vertical',
-  donation: true,
-  templateFolder: 'project'
-}
+    layout: "vertical",
+    donation: true,
+    templateFolder: "project"
+};

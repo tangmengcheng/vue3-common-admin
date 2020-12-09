@@ -1,4 +1,4 @@
 // 自定义配置
-const config = require('./config')
+const config = require("./config");
 
-module.exports = Object.assign({}, config)
+module.exports = Object.assign({}, config);
